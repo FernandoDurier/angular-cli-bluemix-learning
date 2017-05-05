@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: tour-of-heroes-nando777
+  host: tour-of-heroes-nando777
+  disk_quota: 1024M
